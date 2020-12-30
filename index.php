@@ -40,7 +40,7 @@ html *
 </header>
 
 <body>
-    <h1>Hydrophonics System (DS18B20 and Float Switch) v1.0</h1>
+    <h1>Hydrophonic System (DS18B20 and Float Switch) v1.0</h1>
 
     <?php
     $query2 = "SELECT temperature from temperature";
