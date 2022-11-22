@@ -1,7 +1,7 @@
 <?php header( "refresh:1" );
-$dbname = 'id15612948_ismis';
-$dbuser = 'id15612948_soy';  
-$dbpass = '_Soygwapokaayo345'; 
+$dbname = 'YOUR_DB_NAME';
+$dbuser = 'YOUR_DB_USERNAME';  
+$dbpass = 'YOUR_PASSWORD'; 
 $dbhost = 'localhost'; 
 
 $connect = @mysqli_connect($dbhost,$dbuser,$dbpass,$dbname);
